@@ -50,6 +50,6 @@ You must have Python3 installed
 
 # Run the file
 
-If you are running this file from a terminal in Windows or cmd you can run ```python3 main.py``` Just make sure you move to the right directory.
+If you are running this file from a terminal in Windows (as long as the command is correctly connected to the shell - can't remember the word) or Linux you can run ```python3 main.py``` Just make sure you move to the right directory.
 
 If you are in Windows you can just double-click the file. 
